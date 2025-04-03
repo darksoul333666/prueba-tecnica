@@ -1,0 +1,13 @@
+<ion-card>
+  <ion-card-header>
+    {{ recipe?.title}}
+  </ion-card-header>
+  <ion-card-content>
+    <img [src]="recipe?.image" alt="recipe image alt" />
+    <p>{{recipe?.description}}</p>
+    <ion-button
+    (click)="seeDetails(recipe?.id || 0)" >
+      See details
+    </ion-button>
+  </ion-card-content>
+</ion-card>

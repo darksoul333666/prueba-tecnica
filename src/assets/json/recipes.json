@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Pastel de Chocolate",
+    "description": "Pastel de chocolate com cobertura de chocolate",
+    "image": "https://www.azucardominomex.com/sites/azucardominomex_com/files/styles/m/public/2022-09/600x336_PASTEL-DE-CHOCOLATE-BRUCE.jpg.webp?itok=1xSHaWTo"
+  },
+  {
+    "id": 2,
+    "title": "Carlota de limón",
+    "description":" Carlota sabor limón",
+    "image": "https://images.aws.nestle.recipes/original/433eeb2a563cd4d7f6d707aa8055c4bb_1268-carlota_limon-nologo.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Carlota de durazno",
+    "description":" Carlota sabor limón",
+    "image": "https://images.aws.nestle.recipes/original/433eeb2a563cd4d7f6d707aa8055c4bb_1268-carlota_limon-nologo.jpg"
+  }
+]
